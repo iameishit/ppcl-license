@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ppcl-logo.png" alt="PPCL 1.0 logo" width="280">
+  <img src="asset/ppcl-logo.png" alt="PPCL 1.0 logo" width="280">
 </p>
 
 <h1 align="center">PPCL 1.0</h1>
