@@ -1,0 +1,247 @@
+SPDX-License-Identifier: PPCL-1.0
+
+                  PALDITA PUBLIC COPYLEFT LICENSE
+                       Version 1.0, 2026
+
+ Copyright (C) 2026 Eishit Nigam and Paldita
+ Jointly created and owned by Eishit Nigam and Paldita.
+ Maintained and administered by the Paldita Team.
+
+ Everyone is permitted to copy and distribute verbatim copies of this
+ license document, but changing it is not allowed except as permitted
+ under Section 12 below.
+
+                            Preamble
+
+The Paldita Public Copyleft License is a strong copyleft license for
+software. It is designed to guarantee that the software, and every
+public derivative of it, remains free for everyone to use, study,
+share, and improve — including when that derivative is offered only
+as a network service rather than distributed as a copy.
+
+This License grants broad permissions to all users, including
+commercial users, with no field-of-endeavor restrictions. In exchange,
+anyone who distributes the Software, a Modified Version, or who
+operates it as a network service available to outside users, must
+make the corresponding source code available under this same License.
+That is the entire mechanism by which this License keeps the work from
+being absorbed into a closed, proprietary product. There are no
+separate fees, no required commercial agreements, and no approval
+gate.
+
+The precise terms and conditions for use, copying, distribution, and
+modification follow.
+
+                       TERMS AND CONDITIONS
+
+0. DEFINITIONS
+
+"This License" refers to version 1.0 of the Paldita Public Copyleft
+License.
+
+"The Software" means this work and any work licensed under this
+License.
+
+"Modified Version" means a work based on or derived from the Software,
+in whole or in substantial part, including translations, refactors,
+and partial incorporations into another work.
+
+"Source Code" means the preferred human-readable form of the Software
+for making modifications, including build scripts and interface
+definitions needed to compile or run it.
+
+"Convey" means any kind of distribution, transmission, or making
+available of a copy to a third party, except for actions that occur
+solely on your own device and are not shared further.
+
+"Network Use" means making the Software, or a Modified Version,
+available for other parties to interact with over a network
+(including as a hosted service, API, platform, or similar offering),
+regardless of whether the underlying code is itself conveyed to those
+parties.
+
+"Corresponding Source" means all the Source Code needed to generate,
+install, and run the Software or Modified Version, including any
+modifications you have made.
+
+"You" means the individual or entity exercising rights under this
+License.
+
+"Copyright Holder" means, collectively, Eishit Nigam and Paldita, as
+joint holders of copyright in the Software and this License.
+
+"Paldita Team" means the group of individuals designated from time to
+time to maintain, administer, and act on behalf of the Copyright
+Holder for purposes of this License, including version management,
+notices, and license administration. Day-to-day maintenance and
+administration of this License is carried out by the Paldita Team on
+behalf of the Copyright Holder.
+
+1. GRANT OF RIGHTS
+
+The copyright holder grants You a worldwide, royalty-free,
+non-exclusive license to use, run, study, copy, modify, merge, Convey,
+and create Modified Versions of the Software, for any purpose,
+including commercial purposes, subject to the conditions below. This
+grant applies equally to all recipients; no recipient receives rights
+superior to any other.
+
+2. CONVEYING VERBATIM COPIES
+
+You may Convey verbatim copies of the Software's Source Code as you
+receive it, in any medium, provided You keep intact all copyright
+notices, this License, and any notices of warranty disclaimer.
+
+3. CONVEYING MODIFIED VERSIONS AND COPYLEFT
+
+You may Convey a Modified Version, provided that:
+
+  a. You license the entire Modified Version under this License (or a
+     later version published under Section 12), with no additional
+     restrictions;
+
+  b. You carry prominent notices stating that You changed the
+     Software and the date of any change;
+
+  c. You preserve all copyright, license, and attribution notices
+     from the Software;
+
+  d. You make the Corresponding Source available to every recipient,
+     by including it or by providing a durable, reasonably accessible
+     means (such as a public repository URL) for obtaining it at no
+     charge beyond reasonable distribution cost.
+
+A Modified Version, once Conveyed, is itself "the Software" for
+purposes of this License — it carries the same obligations forward to
+its own recipients, regardless of how many times it is modified or by
+whom.
+
+4. NETWORK USE
+
+If You make the Software or a Modified Version available via Network
+Use to any third party, that act is treated as Conveying for purposes
+of Section 3. You must offer those third parties, at no charge, a copy
+of the Corresponding Source for the exact version they are interacting
+with, via a reasonably accessible mechanism (e.g., a visible link in
+the service's interface or documentation).
+
+This obligation applies regardless of whether You have modified the
+Software, and regardless of whether any copy of the Software is
+otherwise transmitted to those third parties. Operating the Software
+as a service does not exempt You from this License.
+
+5. MACHINE LEARNING AND DERIVATIVE MODELS
+
+A model, weight set, or other artifact produced by training,
+fine-tuning, or distillation processes that incorporate or reproduce a
+substantial portion of the Software's Source Code, such that the
+artifact would, under applicable copyright law, be considered a
+derivative work of the Software, is a Modified Version and is subject
+to Sections 3 and 4 to the same extent as any other derivative work.
+
+This Section does not create any new restriction on training,
+evaluation, or research use of the Software; it clarifies that the
+existing copyleft obligations in Sections 3 and 4 apply without regard
+to the technical method by which a derivative work is produced.
+Whether a given trained artifact qualifies as a derivative work under
+applicable law is a question of fact and law not resolved by this
+License.
+
+6. ATTRIBUTION
+
+Every copy or Modified Version, however distributed or operated, must
+include a copyright notice identifying the Copyright Holder (Eishit
+Nigam and Paldita) as the original author of the Software, and must
+not represent itself as the original, unmodified Software once changes
+have been made.
+
+7. PATENT GRANT AND PATENT RETALIATION
+
+Each contributor grants You a worldwide, royalty-free patent license
+under any patent claims that contributor can license and that are
+necessarily infringed by the Software as contributed.
+
+If You institute patent litigation against any party alleging that
+the Software, or a Modified Version, infringes a patent, then any
+patent licenses granted to You under this License terminate
+immediately.
+
+8. NO ADDITIONAL RESTRICTIONS
+
+You may not impose any further restriction on the exercise of the
+rights granted under this License, including via separate agreement,
+technical measures (such as cryptographic signing requirements that
+prevent installing modified versions), or terms of service.
+
+9. TRADEMARKS
+
+This License does not grant permission to use the names "Paldita,"
+"Eishit Nigam," the "Paldita Team," or any associated logos, as a
+means of endorsement, except as reasonably necessary for truthful
+attribution under Section 6.
+
+10. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR ANY
+CONTRIBUTOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY
+ARISING FROM THE SOFTWARE OR ITS USE.
+
+11. TERMINATION AND CURE
+
+Your rights under this License terminate automatically if You fail to
+comply with its terms. However, if You cure the violation within 30
+days of becoming aware of it (or of receiving notice from the
+Copyright Holder or the Paldita Team acting on its behalf, whichever
+is earlier), Your rights are automatically restored. The Copyright
+Holder, acting through the Paldita Team, may also restore Your rights
+at their discretion following any violation.
+
+12. FUTURE VERSIONS AND CUSTOM VARIANTS
+
+The Paldita Team may publish new versions of this License on behalf of
+the Copyright Holder. Each version is given a distinguishing version
+number. You may use the Software under the terms of the version You
+received, or any later version, at Your option.
+
+Anyone may publish a customized variant of this License's text,
+provided the variant: (a) is given a distinct name not implying it is
+the official Paldita Public Copyleft License; (b) preserves the
+copyleft and network-use obligations in Sections 3 and 4 unless those
+obligations are expressly and separately waived in writing by the
+Copyright Holder for their own work; and (c) does not represent itself
+as approved by, or affiliated with, the Paldita Team or the Copyright
+Holder absent written permission.
+
+13. SEVERABILITY
+
+If any provision of this License is held unenforceable, the remaining
+provisions remain in full effect, and the unenforceable provision
+shall be read to most closely approximate its original intent within
+the bounds of applicable law.
+
+                     END OF TERMS AND CONDITIONS
+
+                  How to Apply This License to Your Work
+
+To apply this License to software you have written, attach the
+following notice to the start of each source file, replacing the
+bracketed text with your own information:
+
+    <one line to give the program's name and a brief idea of what it
+    does.>
+    Copyright (C) <year>  <name of author>
+
+    This program is licensed under the Paldita Public Copyleft
+    License, Version 1.0. You should have received a copy of the
+    license along with this program. If not, see <URL where you will
+    host the license text>.
+
+Also include a copy of this license text in a file named LICENSE in
+the root of your project, and add the line
+
+    SPDX-License-Identifier: PPCL-1.0
+
+to the header of each source file where practical.

@@ -1,0 +1,291 @@
+SPDX-License-Identifier: LicenseRef-Paldita-FairShare-1.0
+
+                    PALDITA FAIRSHARE LICENSE
+                       Version 1.0, 2026
+
+ Copyright (C) 2026 Eishit Nigam and Paldita
+ Jointly created and owned by Eishit Nigam and Paldita.
+ Maintained and administered by the Paldita Team.
+
+                            Preamble
+
+The Paldita FairShare License is a source-available license. Source
+code is published and freely usable for personal, academic, internal,
+and non-commercial purposes. Commercial Deployment and AI Use are
+permitted subject to the FairShare obligation described in Section 6
+below: either a published fee, a negotiated agreement, or a written
+waiver from the Copyright Holder.
+
+This License is not an Open Source Initiative-approved license and is
+not represented as Free Software under the Free Software Foundation's
+definition, because of the commercial and AI-use conditions in
+Sections 6 and 7. See Section 20.
+
+This License is intended as an alternative to the Paldita Public
+Copyleft License ("PPCL"), for licensees who would prefer to pay a fee
+rather than accept PPCL's copyleft and network-use obligations. A
+licensee may choose either license; choosing one does not require
+compliance with the other.
+
+                       TERMS AND CONDITIONS
+
+1. DEFINITIONS
+
+1.1 "Original Creator" means Eishit Nigam.
+
+1.2 "Copyright Holder" means, collectively, Eishit Nigam and Paldita,
+as joint holders of copyright in the Software and this License.
+
+1.3 "Paldita Team" means the group designated to maintain and
+administer this License, including publishing fee schedules and
+granting waivers, on behalf of the Copyright Holder.
+
+1.4 "Software" means the software, source code, documentation,
+configuration files, examples, assets, and associated materials
+distributed under this License.
+
+1.5 "Derivative Work" means any modified, adapted, translated,
+extended, repackaged, integrated, or otherwise derived version of the
+Software, including partial incorporation into another work.
+
+1.6 "Substantial Portion" means a portion of the Software that is
+either (a) more than five percent (5%) of the Software's source lines
+of code as measured at the time of use, or (b) smaller in volume but
+functionally central, such that the recipient's product or system
+would not work as intended, or would require materially different
+engineering, without it. Where reasonably disputable, the Paldita Team
+will provide a written determination upon request.
+
+1.7 "Commercial Deployment" means any use of the Software, a
+Derivative Work, or a substantially similar hosted service, product,
+API, platform, dataset, model, or managed offering incorporating a
+Substantial Portion of the Software, that directly generates revenue,
+sits within a for-profit organization's production systems, or is
+offered to external customers, whether free or paid. Internal
+evaluation, testing, and non-production research use by a for-profit
+entity is not, by itself, a Commercial Deployment.
+
+1.8 "AI Use" means use of the Software, or a Substantial Portion of
+it, for training, fine-tuning, evaluation, benchmarking, alignment,
+retrieval, dataset construction, synthetic data generation, model
+testing, or related machine learning purposes.
+
+1.9 "Public Attribution" means a visible public acknowledgment of the
+Copyright Holder in a place reasonably likely to be seen by users,
+customers, or the public.
+
+1.10 "Modified Version" means a version that contains additions,
+deletions, translations, rewrites, refactoring, or any other changes
+to the Software.
+
+1.11 "Official Version" means a version released or approved by the
+Paldita Team.
+
+2. GRANT OF RIGHTS
+
+Subject to the terms of this License, the Copyright Holder grants You
+a worldwide, non-exclusive, revocable license to use, reproduce,
+modify, create Derivative Works of, distribute, publicly perform or
+display, and sublicense the Software, for personal, academic,
+internal, nonprofit, and other non-Commercial-Deployment purposes, at
+no charge.
+
+For any Commercial Deployment or AI Use, the rights above are granted
+subject to and conditioned upon compliance with Section 6 (FairShare
+Commercial Obligation) and Section 7 (AI Commercial Use).
+
+3. BASIC CONDITIONS
+
+You may exercise the rights granted by this License only if you comply
+with all applicable terms of this License. You must not remove,
+obscure, or alter the copyright notice, license notice, or attribution
+requirements in this License.
+
+4. PUBLIC ATTRIBUTION
+
+Any Commercial Deployment of the Software shall publicly acknowledge
+the Copyright Holder, reasonably visibly and with prominence
+substantially equivalent to other engineering acknowledgements made by
+the Commercial Deployer. Attribution shall not be hidden solely within
+legal notices, privacy policies, source repositories, or technical
+documentation, and shall appear in at least one publicly accessible
+location such as a product website, About page, credits page,
+licensing page, technology page, developer portal, release notes, app
+store listing, or public documentation page.
+
+5. AI ATTRIBUTION AND PROVENANCE
+
+Any organization engaging in AI Use of the Software, or a Substantial
+Portion of it, shall publicly identify the Software in a publicly
+accessible location reasonably associated with the resulting model,
+dataset, system, or product, including, where reasonably known: the
+original project name, the Copyright Holder, repository URL, version
+used, commit or release identifier, license name and version, and a
+brief statement describing the nature of the AI Use.
+
+This information shall appear in at least one publicly accessible
+location, such as a model card, dataset card, system card, About page,
+licensing page, research paper appendix, public technical
+documentation, or public changelog. Where multiple upstream works are
+used, the Commercial AI user must not intentionally omit the Copyright
+Holder while publicly naming other substantial upstream contributors.
+
+6. FAIRSHARE COMMERCIAL OBLIGATION
+
+Any Commercial Deployment that incorporates a Substantial Portion of
+the Software shall, before that deployment begins, do one of the
+following, at the Copyright Holder's election:
+
+  a. enter into a separate written commercial FairShare agreement
+     with the Copyright Holder or the Paldita Team; or
+
+  b. pay the FairShare fee published by the Paldita Team for the
+     applicable use case, if one is publicly posted and applicable;
+     or
+
+  c. obtain a written waiver from the Copyright Holder.
+
+If no fee schedule applicable to your use case has been publicly
+posted at the time you begin a Commercial Deployment, you must notify
+the Paldita Team in writing within thirty (30) days of beginning that
+deployment, identifying your intended use. The Paldita Team will
+respond with applicable terms within sixty (60) days of that notice.
+Your Commercial Deployment may continue during that response period
+without breaching this Section, provided you notified the Paldita Team
+as required and negotiate the resulting terms in good faith once
+received. Failure to provide the required notice, or failure to reach
+or comply with resulting terms after a timely response, is a breach of
+this Section.
+
+7. AI COMMERCIAL USE
+
+Without limiting Section 6, AI Use by a commercial entity that
+incorporates a Substantial Portion of the Software is expressly
+subject to the FairShare obligation in Section 6. This includes,
+without limitation, use of a Substantial Portion of the Software for
+training, fine-tuning, distillation, evaluation, benchmark generation,
+synthetic data generation, retrieval systems, model alignment, agent
+tooling, inference pipelines derived from the Software, dataset
+curation, code corpus construction, or any substantially similar
+AI-related commercial process.
+
+8. DERIVATIVE WORKS AND MODIFIED VERSIONS
+
+You may create Modified Versions and Derivative Works of the Software.
+Any Modified Version that is distributed must: include this License or
+a clearly identified derivative license approved by the Copyright
+Holder; clearly identify that changes were made; preserve all
+mandatory notices; not misrepresent itself as an Official Version
+unless approved in writing by the Paldita Team; and, if redistributed
+under a different name or version, include a clear statement that it
+is derived from the Software.
+
+If you create a substantially different license or commercial variant,
+you must publish it under a new license name and a new version
+identifier.
+
+9. CUSTOM LICENSE VARIANTS
+
+A person may create a customized version of this License only if the
+customized version: uses a distinct name and version identifier;
+clearly states the customization is unofficial unless approved in
+writing; does not claim to be the canonical Paldita FairShare License;
+and preserves the attribution, provenance, and FairShare obligations
+unless the Copyright Holder expressly waives them in writing. The
+canonical version is the version maintained by the Paldita Team.
+
+10. NO IMPLIED RELINQUISHMENT
+
+No conduct, failure to enforce, silence, or informal communication by
+the Copyright Holder or the Paldita Team shall be construed as a
+waiver of rights under this License, except by a written waiver signed
+by the Copyright Holder.
+
+11. TRADEMARKS
+
+This License does not grant permission to use the names "Paldita,"
+"Paldita FairShare License," "Eishit Nigam," the "Paldita Team," or
+any associated logos or marks, except as needed for truthful
+attribution or as separately authorized in writing.
+
+12. PATENT LICENSE
+
+To the extent permitted by law, the Copyright Holder grants You a
+patent license to any patent claims necessarily infringed by the
+Software itself, but only for uses permitted under this License. This
+patent grant does not extend to uses outside the scope of this
+License, and terminates with respect to any party that institutes
+patent litigation alleging that the Software infringes a patent.
+
+13. WARRANTY DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
+NONINFRINGEMENT.
+
+14. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE
+COPYRIGHT HOLDER, THE PALDITA TEAM, OR CONTRIBUTORS BE LIABLE FOR ANY
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE
+DAMAGES, OR ANY LOSS OF PROFITS, REVENUE, DATA, BUSINESS, OR GOODWILL,
+ARISING FROM OR RELATED TO THE SOFTWARE OR THIS LICENSE, EVEN IF
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+15. SEVERABILITY
+
+If any provision of this License is held unenforceable in a particular
+jurisdiction, that provision shall be enforced to the maximum extent
+permitted by law, and the remainder of the License shall remain in
+effect.
+
+16. TERMINATION AND CURE
+
+Any material violation of this License terminates the rights granted
+to You under this License. If the violation is capable of being cured,
+Your rights are automatically restored upon curing the violation
+within thirty (30) days of becoming aware of it, or of receiving
+written notice from the Copyright Holder or the Paldita Team,
+whichever is earlier. Outstanding FairShare fees accrued before
+termination remain due regardless of cure.
+
+17. REINSTATEMENT
+
+Rights may be reinstated at the sole discretion of the Copyright
+Holder or the Paldita Team acting on its behalf.
+
+18. CHOICE OF VERSION
+
+The Paldita Team may publish future versions of this License on behalf
+of the Copyright Holder. You may continue to use the version under
+which you received the Software, unless a later version is expressly
+designated as the applicable version by the distribution from which
+you obtained it.
+
+19. ENTIRE AGREEMENT
+
+This License constitutes the entire agreement between You and the
+Copyright Holder regarding the Software, except for any separate
+written commercial agreement signed by the parties under Section 6(a).
+
+20. NO OSI OR FSF REPRESENTATION
+
+This License is a source-available commercial license. It is not
+represented as an Open Source Initiative-approved license or as Free
+Software under the Free Software Foundation's definition, because its
+commercial and AI-use terms (Sections 6 and 7) condition certain uses
+on payment or agreement. Licensees seeking an OSI/FSF-eligible option
+for this Software should refer to the Paldita Public Copyleft License
+(PPCL) instead.
+
+21. GOVERNING LAW
+
+Any separate commercial agreement executed under Section 6(a) may
+specify its own governing law, venue, and dispute resolution terms.
+Absent such an agreement, this License is governed by the laws of
+INDIA,without regard to its conflict-of-laws principles, and the courts
+located there shall have exclusive jurisdiction over disputes arising
+under this License.
+
+END OF LICENSE
