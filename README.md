@@ -108,27 +108,6 @@ In short: **PPCL is free if you stay open. FairShare is paid if you stay closed.
 
    The `LicenseRef-` prefix is the standard SPDX convention for licenses that are not on the official SPDX list — it keeps tooling accurate without falsely implying registration.
 
-## Adding This Logo to a README on GitHub
-
-GitHub renders standard Markdown image syntax directly from files committed to the repository. To reproduce the header above in your own fork or downstream project:
-
-1. Commit the image file to your repository, for example at `assets/ppcl-logo.png`.
-2. Reference it with a relative path, not an absolute URL:
-
-   ```markdown
-   <p align="center">
-     <img src="./assets/ppcl-logo.png" alt="PPCL 1.0 logo" width="280">
-   </p>
-   ```
-
-3. Use a relative path (`./assets/...`) rather than a local machine path (`/Users/you/...` or `C:\...`) — GitHub resolves relative paths against the file's location in the repository, but it cannot reach your local filesystem.
-4. If the logo needs to render correctly on the npm registry, PyPI, or other platforms with stricter Markdown sanitizers, use the absolute GitHub raw URL instead, in the form:
-
-   ```
-   https://raw.githubusercontent.com/<owner>/<repo>/<branch>/assets/ppcl-logo.png
-   ```
-
-5. Avoid `<style>` blocks or inline CSS beyond simple attributes (`width`, `align`) — GitHub's Markdown renderer strips most custom CSS for security reasons.
 
 ## Governance
 
